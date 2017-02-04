@@ -1,0 +1,17 @@
+div.contentArea div.row-fluid img.image-float-right{
+	float:right !important;
+	margin:0 !important;
+	margin-left:80px !important;
+	width:30% !important;
+	max-width: 400px;
+	height:auto !important;
+}
+
+div.contentArea div.row-fluid img.image-float-left{
+	float:left !important;
+	margin:0 !important;
+	margin-right:80px !important;
+	width:30% !important;
+	max-width: 400px;
+	height:auto !important;
+}
